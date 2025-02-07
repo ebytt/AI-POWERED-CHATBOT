@@ -3,6 +3,7 @@ Explore the deployed chatbot here:
 EbunStoresBot Project: https://ebytt.github.io/AI-POWERED-CHATBOT/
 
 Project Overview
+
 EbunStoresBot is an AI-powered chatbot designed to provide seamless customer support by answering common inquiries related to product availability, order tracking, return policies, shipping details, and support guidelines. Built on Google Cloud Platform (GCP) using Vertex AI Agent Builder, it ensures scalability, reliability, and intelligent automation for enhanced customer interactions.
 
 Project Architecture
