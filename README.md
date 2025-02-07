@@ -59,11 +59,13 @@ Step 4: Connect Data Store to Chatbot
 Step 5: Deploy the Chatbot on a Website
 1. Develop a web-based interface where users can interact with EbunStoresBot.
 2. Integrate with GCP to process chatbot responses in real time.
+
 How It Works
 1. **User Interaction**: The chatbot receives queries from users via the web interface.
 2. **Data Processing**: Vertex AI Agent Builder processes the input and retrieves relevant responses using the trained data.
 3. **Response Generation**: The chatbot provides an appropriate response based on stored knowledge and AI-powered inference.
 4. **Continuous Learning**: The chatbot improves over time as more data is processed.
+
 Technologies Used
 - Google Cloud Platform (GCP)
 - Vertex AI Agent Builder
@@ -71,11 +73,13 @@ Technologies Used
 - DAGflow CX Agent
 - Python/JavaScript (for web integration)
 - Machine Learning & NLP
+
 Future Enhancements
 - Integrate with BigQuery for real-time analytics.
 - Enable voice-based interaction with Google Dialogflow.
 - Improve NLP capabilities using custom-trained models.
 - Expand support for multiple languages.
+
 Conclusion
 EbunStoresBot is a scalable, intelligent chatbot solution that enhances customer engagement. With seamless integration, powerful automation, and continuous learning, it’s perfect for businesses aiming to improve customer interactions.
 🚀 Get Started
