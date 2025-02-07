@@ -3,7 +3,6 @@ Explore the deployed chatbot here:
 EbunStoresBot Project: https://ebytt.github.io/AI-POWERED-CHATBOT/
 
 Project Overview
-
 EbunStoresBot is an AI-powered chatbot designed to provide seamless customer support by answering common inquiries related to product availability, order tracking, return policies, shipping details, and support guidelines. Built on Google Cloud Platform (GCP) using Vertex AI Agent Builder, it ensures scalability, reliability, and intelligent automation for enhanced customer interactions.
 
 Project Architecture
@@ -13,6 +12,7 @@ Project Architecture
 - Web Interface – Provides a user-friendly front-end for interaction.
 
 Training Data Used
+
 EbunStoresBot was trained using structured business data, ensuring accurate and relevant responses. The chatbot learns from the following sources:
 1. Product Catalog
 Provides details on available products, specifications, prices, and stock levels.
@@ -36,6 +36,7 @@ Example Query: "How do I contact customer support?"
 Example Response: " You can contact customer support by phone at 0123456789 or by email at support@ebunstores.com.  "
 
 Setup Guide
+
 Step 1: Activate Vertex AI Agent Builder API
 1. Log in to GCP Console.
 2. Navigate to Vertex AI > Agent Builder.
